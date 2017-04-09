@@ -1,4 +1,4 @@
-package com.shardis.dto.user;
+package com.jpp.pos.dto.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,6 +1,6 @@
-package com.shardis.utils;
+package com.jpp.pos.utils;
 
-import com.shardis.cons.Profiles;
+import com.jpp.pos.cons.Profiles;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.context.EnvironmentAware;
 import org.springframework.core.env.Environment;

@@ -1,7 +1,7 @@
-package com.shardis.controllers.rest;
+package com.jpp.pos.controllers.rest;
 
 
-import com.shardis.dto.chat.ChatMessage;
+import com.jpp.pos.dto.chat.ChatMessage;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

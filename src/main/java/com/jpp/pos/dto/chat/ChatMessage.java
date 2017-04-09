@@ -1,4 +1,4 @@
-package com.shardis.dto.chat;
+package com.jpp.pos.dto.chat;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

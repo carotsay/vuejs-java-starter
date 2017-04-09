@@ -1,8 +1,9 @@
-package com.shardis.controllers.rest;
+/*
+package com.jpp.pos.controllers.rest;
 
 
 import com.google.common.collect.Lists;
-import com.shardis.dto.user.UserPost;
+import com.jpp.pos.dto.user.UserPost;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -10,9 +11,11 @@ import org.springframework.web.bind.annotation.RestController;
 import java.time.LocalDateTime;
 import java.util.List;
 
+*/
 /**
- * Created by Tomasz Kucharzyk
- */
+ * Created by JackPham
+ *//*
+
 
 @RestController
 @RequestMapping("/rest")
@@ -49,3 +52,4 @@ public class SampleRestController {
         return settings;
     }
 }
+*/

@@ -1,6 +1,6 @@
-package com.shardis.controllers.web;
+package com.jpp.pos.controllers.web;
 
-import com.shardis.utils.EnvironmentProvider;
+import com.jpp.pos.utils.EnvironmentProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
@@ -17,7 +17,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class MainPageController {
 
     @Autowired
-    EnvironmentProvider environmentProvider;
+    private EnvironmentProvider environmentProvider;
 
     @ResponseStatus(HttpStatus.OK)
     @RequestMapping("/")

@@ -1,12 +1,11 @@
-package com.shardis.cons;
+package com.jpp.pos.cons;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
 /**
- * Created by Tomasz Kucharzyk
- */
-
+ * Created by JackPham
+ **/
 @Getter
 @AllArgsConstructor
 public enum Profiles {
@@ -15,6 +14,4 @@ public enum Profiles {
     PROD("prod");
 
     private String profileName;
-
-
 }

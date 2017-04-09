@@ -1,4 +1,4 @@
-package com.shardis.dto.error;
+package com.jpp.pos.dto.error;
 
 import com.google.common.collect.Lists;
 import lombok.AllArgsConstructor;
