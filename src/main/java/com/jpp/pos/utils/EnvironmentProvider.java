@@ -7,7 +7,7 @@ import org.springframework.core.env.Environment;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by Tomasz Kucharzyk
+ * Created by JackPham
  */
 @Component
 public class EnvironmentProvider implements EnvironmentAware {

@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import java.time.LocalDateTime;
 
 /**
- * Created by Tomasz Kucharzyk
+ * Created by JackPham
  */
 @Data
 @NoArgsConstructor
